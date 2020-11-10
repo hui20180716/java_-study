@@ -5,6 +5,8 @@ import com.kazu.springdatajpa02.entity.User;
 import com.sun.tracing.dtrace.Attributes;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.annotation.Transient;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -56,5 +58,20 @@ class Springdatajpa02ApplicationTests {
             System.out.println("......................"+u.toString());
 
         }
+    }
+    @Test
+    void contextLoads6() {
+        List<User> a= userRepository.findUserByUserNameAndAddress("o","广州");
+        for(User u:a){
+            System.out.println("......................"+u.toString());
+
+        }
+    }
+
+    @Test
+    @Transactional
+    void updateUser(){
+        int i=userRepository.updateUser("fag34",2);
+        System.out.println(i);
     }
 }

@@ -1,0 +1,35 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(ËúÁ±üÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(È›øïşÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "ts2".(È›øïşÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "ts".(à±ƒÛ
+L
+java:S1854""6Remove this useless assignment to local variable "ts".(à±ƒÛ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+E
+java:S1611~"/Remove the parentheses around the "e" parameter(·ïôÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+F
+java:S1611ƒ"/Remove the parentheses around the "e" parameter(Öş¡®
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(³ÀÊ‰øÿÿÿÿ
+K
+java:S1611‹"/Remove the parentheses around the "e" parameter(Ú›Óğıÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(½õŸ÷øÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+=
+java:S1481"'Remove this unused "ts" local variable.(à±ƒÛ
+C
+java:S1481"(Remove this unused "ts2" local variable.(È›øïşÿÿÿÿ
+=
+java:S1481""'Remove this unused "ts" local variable.(à±ƒÛ

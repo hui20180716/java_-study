@@ -1,0 +1,34 @@
+
+Y
+java:S1117]"7Rename "emps" which hides the field declared at line 8.(éÿöûÿÿÿÿ8Åµ†¦Ş.
+L
+java:S1611B"/Remove the parentheses around the "e" parameter(Ùè´8åüå§Ş.
+Y
+java:S1117T"7Rename "emps" which hides the field declared at line 8.(éÿöûÿÿÿÿ8Ò£Ş¥Ş.
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(Æñ|8ûá™¥Ş.
+Y
+java:S1854)"7Remove this useless assignment to local variable "set".(îÍÙ„ÿÿÿÿÿ8Üî´¥Ş.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ÀÃæ§Ş.
+N
+java:S1612'",Replace this lambda with a method reference.(½›Ç‚ÿÿÿÿÿ8Üî´¥Ş.
+0
+java:S1220""Move this file to a named package.
+R
+java:S1128"6Remove this unused import 'java8.FilterEmployeeByage'.(¹ÿ8Ğ³Ú¦Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹À³‚8Üœ¢¥Ş.
+X	java:S125."<This block of commented-out lines of code should be removed.(…Å¬º8ğŸ¦Ş.
+Y
+java:S1854""7Remove this useless assignment to local variable "set".(îÍÙ„ÿÿÿÿÿ8Üî´¥Ş.
+L
+java:S1611<"/Remove the parentheses around the "e" parameter(Äº²È8êËÕ§Ş.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ÄÂ‚ş8¥ÈÜ§Ş.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8úèô§Ş.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(•Úèê8µ´ñ§Ş.
+J
+java:S1481)"(Remove this unused "set" local variable.(îÍÙ„ÿÿÿÿÿ8Üî´¥Ş.
+J
+java:S1481""(Remove this unused "set" local variable.(îÍÙ„ÿÿÿÿÿ8Üî´¥Ş.
+Y
+java:S1117K"7Rename "emps" which hides the field declared at line 8.(éÿöûÿÿÿÿ8¾åÑ¥Ş.
+m
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8Üî´¥Ş.

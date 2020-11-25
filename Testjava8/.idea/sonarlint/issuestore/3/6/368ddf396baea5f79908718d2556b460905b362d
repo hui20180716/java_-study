@@ -1,0 +1,70 @@
+
+€
+java:S1192I"jDefine a constant instead of duplicating this literal "-----------------------------------------" 3 times.(‰âíİ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+B
+java:S1612:",Replace this lambda with a method reference.(”×´ï
+G
+java:S1612^",Replace this lambda with a method reference.(´ÿ½ïıÿÿÿÿ
+G
+java:S1612g",Replace this lambda with a method reference.(–ŸÃêıÿÿÿÿ
+G
+java:S1612u",Replace this lambda with a method reference.(´Øé’ÿÿÿÿÿ
+C
+java:S1612",Replace this lambda with a method reference.(·ÖÔğ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÚˆÇüÿÿÿÿ
+q
+java:S4276%"[Refactor this code to use the more specialised Functional Interface 'IntFunction<String[]>'(³Ò±
+H
+java:S1611%"2Remove the parentheses around the "args" parameter(³Ò±
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ˆ›ŠÖ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(Ü¦†u
+N
+java:S18545"8Remove this useless assignment to local variable "fun2".(Ï°
+M
+java:S18543"7Remove this useless assignment to local variable "fun".(º
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ïºûÿÿÿÿ
+M	java:S106="9Replace this use of System.out or System.err by a logger.(¥ÖC
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÉÓË‚ùÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(œò™—
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(‰âíİ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Ç¦Í¨
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(‰âíİ
+E
+java:S1611Q"/Remove the parentheses around the "e" parameter(·™¯»
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ß¥øùÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(‰âíİ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(‘’¸„şÿÿÿÿ
+N
+java:S1854b"8Remove this useless assignment to local variable "com2".(©¢ı¡
+R
+java:S1854^"7Remove this useless assignment to local variable "com".(´ÿ½ïıÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(²”Áã
+w
+java:S4276g"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Double>'(–ŸÃêıÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(¶æŒ¹
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ
+r
+java:S4276l"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Double>'(±¡«»
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(˜¶‰şüÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(Ïºûÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ÉÓË‚ùÿÿÿÿ
+O
+java:S1854‰"8Remove this useless assignment to local variable "con3".(¤¼ë
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(·Ü‹ûÿÿÿÿ
+H
+java:S1611"1Remove the parentheses around the "str" parameter(·ÖÔğ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(¤¼ë
+>
+java:S14813"(Remove this unused "fun" local variable.(º
+?
+java:S14815")Remove this unused "fun2" local variable.(Ï°
+C
+java:S1481^"(Remove this unused "com" local variable.(´ÿ½ïıÿÿÿÿ
+?
+java:S1481b")Remove this unused "com2" local variable.(©¢ı¡
+@
+java:S1481‰")Remove this unused "con3" local variable.(¤¼ë

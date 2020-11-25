@@ -1,0 +1,36 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+P
+java:S1854#";Remove this useless assignment to local variable "stream2".(ÂƒÚ\
+Q
+java:S1854 ";Remove this useless assignment to local variable "stream1".(–’¯±
+]
+java:S1854"BRemove this useless assignment to local variable "parallelStream".(¼óÃƒúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "stream".(ÆÖÛôúÿÿÿÿ
+J
+java:S1611'"/Remove the parentheses around the "x" parameter(šĞªıúÿÿÿÿ
+M	java:S106("9Replace this use of System.out or System.err by a logger.(ã‡Î3
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(‚Ö…«
+J
+java:S1611H"/Remove the parentheses around the "e" parameter(µğøÄüÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(‰ØçÒ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(î¼ùš
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(É„†ú
+J
+java:S1611^"/Remove the parentheses around the "e" parameter(µğøÄüÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(¾Ûôˆ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(¾Ûôˆ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+E
+java:S1611h"/Remove the parentheses around the "e" parameter(Ùè´
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+F
+java:S1481"+Remove this unused "stream" local variable.(ÆÖÛôúÿÿÿÿ
+N
+java:S1481"3Remove this unused "parallelStream" local variable.(¼óÃƒúÿÿÿÿ
+B
+java:S1481 ",Remove this unused "stream1" local variable.(–’¯±
+A
+java:S1481#",Remove this unused "stream2" local variable.(ÂƒÚ\

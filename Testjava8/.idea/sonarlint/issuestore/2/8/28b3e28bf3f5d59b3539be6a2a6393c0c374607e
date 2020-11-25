@@ -1,0 +1,35 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+G
+java:S1612C",Replace this lambda with a method reference.(ÓÛÓ¢øÿÿÿÿ
+G
+java:S1612Q",Replace this lambda with a method reference.(´ÿ½ïıÿÿÿÿ
+C
+java:S16042"(Make this anonymous inner class a lambda(Í‚ÅÌûÿÿÿÿ
+—
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éœ§
+Q	java:S125"<This block of commented-out lines of code should be removed.(Öò
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ßÔ÷âùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(™’ğØ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ÓÛÓ¢øÿÿÿÿ
+M
+java:S1854I"7Remove this useless assignment to local variable "com".(…×“
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Óô£è
+R
+java:S1854Q"7Remove this useless assignment to local variable "com".(´ÿ½ïıÿÿÿÿ
+N
+java:S1854Y"8Remove this useless assignment to local variable "list".(ŠŒÖ
+P	java:S125V"<This block of commented-out lines of code should be removed.(ñ·ë4
+J
+java:S1611e"/Remove the parentheses around the "x" parameter(çÉ÷úÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(›¿ıÁøÿÿÿÿ
+J
+java:S1611h"/Remove the parentheses around the "y" parameter(›¿ıÁøÿÿÿÿ
+>
+java:S1481I"(Remove this unused "com" local variable.(…×“
+C
+java:S1481Q"(Remove this unused "com" local variable.(´ÿ½ïıÿÿÿÿ
+?
+java:S1481Y")Remove this unused "list" local variable.(ŠŒÖ

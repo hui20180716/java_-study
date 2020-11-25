@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+G
+java:S1612:",Replace this lambda with a method reference.(Ùèíìùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ó­ÍÁøÿÿÿÿ
+J
+java:S1611#"/Remove the parentheses around the "s" parameter(È¦½Äüÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+L
+java:S1611:"1Remove the parentheses around the "str" parameter(Ùèíìùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ı·Êôıÿÿÿÿ
+G
+java:S1611="1Remove the parentheses around the "str" parameter(·­§•
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(áÚãÿ
+q
+java:S4276B"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(›×ê¨
+D
+java:S2140I")Use "java.util.Random.nextInt()" instead.(Ôò„Ûøÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+g
+java:S4276Q"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(´ÑÃï
+E
+java:S1611_"/Remove the parentheses around the "m" parameter(öúˆá
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(öúˆá
+j
+java:S4276b"TRefactor this code to use the more specialised Functional Interface 'DoubleConsumer'(ò¡ä¢
